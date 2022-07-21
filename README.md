@@ -10,6 +10,6 @@
 # cd The_Tool
 # python3 My_Script_Hacking.py
 # The User Name: SX
-# The Password: 0152
+# The Password: 01152
 # Thank You
 # SNIPER HEX
